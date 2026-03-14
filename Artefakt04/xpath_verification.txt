@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: contentPanel
+TAG: FrameLayout
+STATUS: ZALICZONE
